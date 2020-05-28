@@ -1,0 +1,18 @@
+{
+  "name": "miserenkov/vlad-telegram-bot",
+  "type": "project",
+  "require": {
+    "telegram-bot/api": "^2.3",
+    "monolog/monolog": "^2.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  },
+  "license": "Proprietary",
+  "authors": [
+    {
+      "name": "Misha Serenkov",
+      "email": "mi.serenkov@gmail.com"
+    }
+  ]
+}

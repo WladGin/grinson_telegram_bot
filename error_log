@@ -1,0 +1,181 @@
+[05-Feb-2020 11:44:37 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 203
+[05-Feb-2020 11:44:37 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 204
+[05-Feb-2020 11:58:13 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 203
+[05-Feb-2020 11:58:13 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 204
+[05-Feb-2020 11:58:38 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 203
+[05-Feb-2020 11:58:38 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 204
+[05-Feb-2020 11:58:38 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 11:59:16 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 13:46:28 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 13:47:36 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 13:47:37 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 162
+[05-Feb-2020 13:47:38 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 164
+[05-Feb-2020 13:55:47 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 13:56:38 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[05-Feb-2020 13:58:49 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 66
+[26-Feb-2020 18:21:43 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:21:58 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:26:10 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:28:54 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:32:47 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:33:11 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:39:41 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:40:08 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:45:08 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:46:39 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:46:40 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:46:41 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:46:41 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:46:41 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:46:41 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:46:41 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:46:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:46:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:52:48 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:52:49 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:52:49 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:52:49 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:53:25 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:53:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:53:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:53:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:53:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:04 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:08 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:08 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:56 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:58:57 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:58 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:58 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:58 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:58 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:58 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:58:59 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:58:59 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:59:36 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 198
+[26-Feb-2020 18:59:36 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 199
+[26-Feb-2020 18:59:40 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 18:59:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:59:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:59:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:59:43 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:59:43 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:59:43 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 18:59:44 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 18:59:44 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 19:00:03 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[26-Feb-2020 19:00:05 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 19:00:05 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 19:00:05 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 19:00:06 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 19:00:06 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 19:00:06 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[26-Feb-2020 19:00:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[26-Feb-2020 19:00:08 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 15:50:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 15:50:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 15:50:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 15:50:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 15:50:40 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 233
+[27-Feb-2020 15:50:40 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 233
+[27-Feb-2020 15:50:40 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 233
+[27-Feb-2020 15:50:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 15:50:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 15:50:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 15:50:42 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:17:36 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[27-Feb-2020 16:17:43 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:17:50 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:17:50 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:17:50 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:17:50 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:17:51 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:17:52 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:17:52 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:25:29 Europe/Kiev] PHP Notice:  Array to string conversion in /home/grins153/public_html/chatbot_v2/Telegram.php on line 187
+[27-Feb-2020 16:45:00 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 207
+[27-Feb-2020 16:45:00 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 208
+[27-Feb-2020 16:45:20 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:20 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:20 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:21 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:22 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:22 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:45:22 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:45:22 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:46:46 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:46:46 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:46:46 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:46:46 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:46:46 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:46:47 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:46:48 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:46:49 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:47:31 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 16:47:32 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 16:47:32 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:09:40 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:09:40 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:09:40 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:09:40 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:11 Europe/Kiev] PHP Notice:  Uninitialized string offset: 1 in /home/grins153/public_html/chatbot_v2/Bitrix24.php on line 60
+[27-Feb-2020 17:10:12 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:13 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:13 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:13 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:27 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:10:28 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:10:28 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:23:21 Europe/Kiev] PHP Notice:  Array to string conversion in /home/grins153/public_html/chatbot_v2/Telegram.php on line 230
+[27-Feb-2020 17:23:23 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:23:23 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:23:23 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:23:23 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:24:07 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 17:24:08 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 17:24:09 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 19:38:56 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 207
+[27-Feb-2020 19:38:56 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 208
+[27-Feb-2020 19:39:11 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 19:39:11 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[27-Feb-2020 19:39:11 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[27-Feb-2020 19:39:11 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[13-Mar-2020 18:07:00 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 207
+[13-Mar-2020 18:07:00 Europe/Kiev] PHP Notice:  Undefined offset: 0 in /home/grins153/public_html/chatbot_v2/Telegram.php on line 208
+[13-Mar-2020 18:10:57 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[13-Mar-2020 18:10:57 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[13-Mar-2020 18:10:57 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[13-Mar-2020 18:10:57 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[24-Mar-2020 15:40:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[24-Mar-2020 15:40:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124
+[24-Mar-2020 15:40:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 84
+[24-Mar-2020 15:40:17 Europe/Kiev] PHP Notice:  Undefined index: this_auth in /home/grins153/public_html/chatbot_v2/crest.php on line 124

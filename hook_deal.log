@@ -1,0 +1,249 @@
+
+------------------------
+2020.02.27 19:39:11
+webform
+Array
+(
+    [event] => ONCRMDEALADD
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 254
+                )
+
+        )
+
+    [ts] => 1582825148
+    [auth] => Array
+        (
+            [domain] => grinson.bitrix24.ua
+            [client_endpoint] => https://grinson.bitrix24.ua/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => dc196beed8c63f4df55b79c8264e4609
+            [application_token] => krjmlv77q1jqmbt83gyrvhhz6xgjlp83
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.02.27 19:39:11
+$newDeal
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 254
+                    [UF_CRM_1578933835] => 31
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1582825151.1676
+            [finish] => 1582825151.1954
+            [duration] => 0.027821063995361
+            [processing] => 0.0094819068908691
+            [date_start] => 2020-02-27T20:39:11+03:00
+            [date_finish] => 2020-02-27T20:39:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.02.27 19:39:11
+$secondDeal
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1582825151.2605
+            [finish] => 1582825151.2845
+            [duration] => 0.024027824401855
+            [processing] => 0.0079660415649414
+            [date_start] => 2020-02-27T20:39:11+03:00
+            [date_finish] => 2020-02-27T20:39:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.13 18:10:57
+webform
+Array
+(
+    [event] => ONCRMDEALADD
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 256
+                )
+
+        )
+
+    [ts] => 1584115853
+    [auth] => Array
+        (
+            [domain] => grinson.bitrix24.ua
+            [client_endpoint] => https://grinson.bitrix24.ua/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => dc196beed8c63f4df55b79c8264e4609
+            [application_token] => krjmlv77q1jqmbt83gyrvhhz6xgjlp83
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.13 18:10:57
+$newDeal
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 256
+                    [UF_CRM_1578933835] => 21
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1584115857.1772
+            [finish] => 1584115857.2004
+            [duration] => 0.023196935653687
+            [processing] => 0.0082900524139404
+            [date_start] => 2020-03-13T19:10:57+03:00
+            [date_finish] => 2020-03-13T19:10:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.13 18:10:57
+$secondDeal
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1584115857.2634
+            [finish] => 1584115857.2889
+            [duration] => 0.025527000427246
+            [processing] => 0.0088851451873779
+            [date_start] => 2020-03-13T19:10:57+03:00
+            [date_finish] => 2020-03-13T19:10:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.24 15:40:17
+webform
+Array
+(
+    [event] => ONCRMDEALADD
+    [data] => Array
+        (
+            [FIELDS] => Array
+                (
+                    [ID] => 258
+                )
+
+        )
+
+    [ts] => 1585057214
+    [auth] => Array
+        (
+            [domain] => grinson.bitrix24.ua
+            [client_endpoint] => https://grinson.bitrix24.ua/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => dc196beed8c63f4df55b79c8264e4609
+            [application_token] => krjmlv77q1jqmbt83gyrvhhz6xgjlp83
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.24 15:40:17
+$newDeal
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 258
+                    [UF_CRM_1578933835] => 23
+                )
+
+        )
+
+    [total] => 1
+    [time] => Array
+        (
+            [start] => 1585057217.6459
+            [finish] => 1585057217.6728
+            [duration] => 0.026880025863647
+            [processing] => 0.0091071128845215
+            [date_start] => 2020-03-24T16:40:17+03:00
+            [date_finish] => 2020-03-24T16:40:17+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.03.24 15:40:17
+$secondDeal
+Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1585057217.7416
+            [finish] => 1585057217.7674
+            [duration] => 0.025792121887207
+            [processing] => 0.0090620517730713
+            [date_start] => 2020-03-24T16:40:17+03:00
+            [date_finish] => 2020-03-24T16:40:17+03:00
+        )
+
+)
+
+------------------------

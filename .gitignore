@@ -1,0 +1,6 @@
+.idea/
+vendor/
+logs/
+
+config.php
+registered.trigger
